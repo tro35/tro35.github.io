@@ -1,16 +1,16 @@
 let data = {
-    photo: 'Images/100_0448.JPG',
+    photo: 'Images/1000448.JPG',
     title: 'Sea view',
     description: 'Crete south coast'
   };
 let data1 = {
-    photo: 'Images/100_0474.JPG',
+    photo: 'Images/1000474.JPG',
     title: 'Infinity pool',
     description: 'View from pool at Kakkos Bay'
   };  
 
 let data2 = {
-    photo: 'Images/100_0541.JPG',
+    photo: 'Images/1000541.JPG',
     title: 'Minoan palace',
     description: 'Trip to Minoan palace 1500 B.C., Crete'
   };  
