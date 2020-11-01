@@ -36,18 +36,19 @@ body{
 }
 
 .thumbnails_container{
-    max-width: 800px;
+    max-width: 960px;
     max-height: 300px;
-    margin-top: 20px;
+    padding-top: 20px;
     display: flex;
-    margin-left: 550px;
-    justify-content: space-between;
-    
+    margin: auto;
+    justify-content: center;
+       
   }
 
 .thumbnail{
   width: 200px;
   height: 100px;
+  padding:20px;
 }
 
 .thumbnail_image{

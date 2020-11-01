@@ -13,11 +13,23 @@ let data2 = {
     photo: 'Images/1000541.JPG',
     title: 'Minoan palace',
     description: 'Trip to Minoan palace 1500 B.C., Crete'
+  }; 
+  
+let data3 = {
+    photo: 'Images/1000569.JPG',
+    title: 'Minoan palace',
+    description: 'Guard tower'
   };  
+  
+let data4 = {
+    photo: 'Images/1000597.JPG',
+    title: 'Libyan sea',
+    description: 'Crete south coast'
+  };    
 
   
 let currentPhoto = 0;
-let imagesData = [data, data1, data2];
+let imagesData = [data, data1, data2, data3, data4];
 /*$('#picture').attr('src', imagesData[currentPhoto].photo);*/
 
 let loadPhoto = (photoNumber) => {
